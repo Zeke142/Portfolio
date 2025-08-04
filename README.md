@@ -46,3 +46,6 @@ Let’s build something that works.
 
 ### RideWise
 🔗https://github.com/Zeke142/RideWise
+
+### Spark
+🔗https://github.com/Zeke142/Spark
