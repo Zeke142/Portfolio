@@ -48,3 +48,7 @@ Let’s build something that works.
 
 ### Spark
 🔗https://github.com/Zeke142/Spark
+
+### OS-PowerShifter
+
+🔗https://github.com/Zeke142/OS-PowerShifter
