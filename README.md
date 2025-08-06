@@ -40,6 +40,7 @@ Let’s build something that works.
 
 - 🔗 [View My Resume (PDF)](./TroyFarley_Resume.pdf)  
 - 🧠 [Visit My Live Portfolio Site](https://peoplerunai.carrd.co)  
+- 🧠 [View My TailWindCSS Resume](https://peoplerunai.carrd.co)  
 
 ## 💻 Repositories 
 
